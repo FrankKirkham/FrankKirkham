@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1>Frank Kirkham</h1>
+<h3>University Student</h3>
+<br>
+<p>Hi, welcome to my profile!</p>
 
 <!--
 **FrankKirkham/FrankKirkham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
