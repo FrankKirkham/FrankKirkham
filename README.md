@@ -34,7 +34,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 AI Starship Arena</h3>
-      <p>AI Star Arena is a Godot-based competitive programming game in which players write Python scripts that fully control their starship in real-time 1v1 battles. It ships with a built-in IDE, an optional Ollama-powered coding assistant, practice bots, and knockout/round-robin tournament modes.</p>
+      <p>AI Star Arena is a Godot-based competitive programming game, developed as a team project, in which players write Python scripts that fully control their starship in real-time 1v1 battles. It ships with a built-in IDE, an optional Ollama-powered coding assistant, practice bots, and knockout/round-robin tournament modes.</p>
       <p><code>Godot</code> <code>GDScript</code> <code>Python</code> · <a href="https://olbailey.itch.io/ai-star-arena">itch.io →</a></p>
     </td>
     <td width="50%" valign="top">
