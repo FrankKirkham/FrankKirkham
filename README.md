@@ -14,8 +14,8 @@
   </tr>
   <tr valign="top">
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" alt="Python, Java, JavaScript"><br>
-      <sub>Python · Java · JavaScript</sub>
+      <img src="https://skillicons.dev/icons?i=python,java,cs,js&theme=dark" alt="Python, Java, JavaScript"><br>
+      <sub>Python · Java · C# · JavaScript</sub>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=flask,fastapi,react,spring&theme=dark" alt="Flask, FastAPI, React, SpringBoot"><br>
