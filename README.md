@@ -38,9 +38,9 @@
       <p><code>Godot</code> <code>GDScript</code> <code>Python</code> · <a href="https://olbailey.itch.io/ai-star-arena">itch.io →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎵 AirDJ</h3>
-      <p>Work in progress, come back soon to see how this is doing!</p>
-      <p><code>Python</code> · <a href="https://github.com/FrankKirkham">Repo →</a></p>
+      <h3>🎵 Wraith: DJ Controller</h3>
+      <p>DJing without the decks: A virtual DJ controller controlled entirely with your hand movements in the air using your webcam. It works by utilising the latest AI/ML tools for detecting hand movements in video and maps this into MIDI signals a DJ software like Mixxx can understand.</p>
+      <p><code>MediaPipe</code> <code>OpenCV</code> <code>Mido</code> <code>rt-midi</code> <code>Python</code> · <a href="https://github.com/FrankKirkham/wraith">Repo →</a></p>
     </td>
   </tr>
   <tr>
