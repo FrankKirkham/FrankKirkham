@@ -10,6 +10,7 @@
   <tr>
     <th align="center">Languages</th>
     <th align="center">Frameworks</th>
+    <th align="center">Libraries</th>
     <th align="center">Infra</th>
   </tr>
   <tr valign="top">
@@ -20,6 +21,11 @@
     <td align="center">
       <img src="https://skillicons.dev/icons?i=flask,fastapi,react,spring&theme=dark" alt="Flask, FastAPI, React, SpringBoot"><br>
       <sub>Flask · FastAPI · React · SpringBoot</sub>
+    </td>
+    <td align="center">
+      <!-- Add more here later when I can find images -->
+      <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="PyTorch, OpenCV"><br>
+      <sub>PyTorch · OpenCV</sub>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=docker,godot&theme=dark" alt="Docker, Godot"><br>
